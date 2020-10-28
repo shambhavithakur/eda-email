@@ -2,7 +2,7 @@
 
 In this project, I cleaned and visualized data from a repository of Enron emails. The project is divided into two parts, cleaning and reorganizing data and visualizing data.
 
-To easily browse through the project notebooks, use the following&nbsp;links:
+To browse through the project notebooks, use the following&nbsp;links:
 
 - [Part 1: Cleaning and reorganizing data](https://nbviewer.jupyter.org/github/shambhavithakur/eda-email/blob/master/eda-email-1.ipynb)
 
